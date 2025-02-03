@@ -57,7 +57,9 @@ Follow these steps to run the project locally on your machine:
 cd airline-passenger-satisfaction-analysis
 
 3.Install the necessary dependencies:
+```bash
 pip install -r requirements.txt
+```
 
 Running the Project
 Open the project in a Jupyter Notebook or your preferred Python IDE.
@@ -71,10 +73,6 @@ Feel free to fork this project, create issues, and submit pull requests. If you 
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-pgsql
-Copy
-Edit
 
 You can copy and paste this directly into your `README.md` file for GitHub. It includes sections for project description, dataset details, algorithms used, and how to run the project, formatted in markdown for proper rendering on GitHub.
 
